@@ -34,12 +34,11 @@ User → EC2 Instance → Docker Containers → OpenTelemetry → Prometheus + J
 
 ### Grafana Dashboard
 ![Grafana](screenshots/grafana-dashboard.png)
-<img width="1919" height="1006" alt="image (1)" src="https://github.com/user-attachments/assets/56de70dd-e118-4cfa-ae05-a13cd143e80d" />
-
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/0e33d916-4aab-4a98-874d-16fdf2dedd4e" />
 
 ### Jaeger Traces
 ![Jaeger](screenshots/jaeger-traces.png)
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/0e33d916-4aab-4a98-874d-16fdf2dedd4e" />
+<img width="1919" height="1006" alt="image (1)" src="https://github.com/user-attachments/assets/56de70dd-e118-4cfa-ae05-a13cd143e80d" />
 
 
 ---
