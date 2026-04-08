@@ -1,4 +1,4 @@
-<img width="1536" height="1024" alt="Copilot_20260407_220241" src="https://github.com/user-attachments/assets/3461fe7e-57f8-40d8-8ea5-bbdd01fadae7" /><img width="1536" height="1024" alt="Copilot_20260407_220241" src="https://github.com/user-attachments/assets/6c7b8fb8-4b89-44ec-9f17-9f3cac75593d" /><img width="1536" height="1024" alt="Copilot_20260407_220241" src="https://github.com/user-attachments/assets/f40e8e8b-a976-4754-ab8f-acc39cc1aa2c" /># Hands-On-Observability-with-OpenTelemetry
+<img width="1536" height="1024" alt="Copilot_20260407_220241" src="https://github.com/user-attachments/assets/3461fe7e-57f8-40d8-8ea5-bbdd01fadae7" /># Hands-On-Observability-with-OpenTelemetry
 # End-to-End Observability Project (Beginner Friendly)
 
 ## 📌 Overview
