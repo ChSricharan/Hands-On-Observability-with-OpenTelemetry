@@ -1,4 +1,4 @@
-<img width="1536" height="1024" alt="Copilot_20260407_220241" src="https://github.com/user-attachments/assets/3461fe7e-57f8-40d8-8ea5-bbdd01fadae7" /># Hands-On-Observability-with-OpenTelemetry
+# Hands-On-Observability-with-OpenTelemetry
 # End-to-End Observability Project (Beginner Friendly)
 
 ## 📌 Overview
@@ -19,7 +19,7 @@ The application is deployed on an AWS EC2 instance and runs inside Docker contai
 
 ## 🏗️ Architecture
 User → EC2 Instance → Docker Containers → OpenTelemetry → Prometheus + Jaeger → Grafana
-
+<img width="1536" height="1024" alt="Copilot_20260407_220241" src="https://github.com/user-attachments/assets/3461fe7e-57f8-40d8-8ea5-bbdd01fadae7" />
 ---
 
 ## ⚙️ Features
